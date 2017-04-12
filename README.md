@@ -15,4 +15,5 @@ fetch-jsonp
 ```
 npm install
 npm run start
+server running at localhost:1337
 ```
