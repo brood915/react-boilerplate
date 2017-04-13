@@ -3,7 +3,7 @@
 ```
 ES6
 React
-SASS
+SASS/SCSS
 html-webpack-plugins
 react-router
 fetch-jsonp
