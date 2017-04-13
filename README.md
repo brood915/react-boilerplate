@@ -1,4 +1,4 @@
-# ReactJS Boilerplate with webpack 2 configurations
+# ReactJS Boilerplate with webpack 2
 
 ```
 ES6
@@ -13,7 +13,8 @@ fetch-jsonp
 ### To run this application
 
 ```
-npm install
-npm run start
+npm install to install all dependencies
+npm run start to start webpack-dev-server
 server running at localhost:1337
+npm run build for production
 ```
