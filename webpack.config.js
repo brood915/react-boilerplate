@@ -41,6 +41,6 @@ module.exports = {
     new ExtractTextPlugin({ // define where to save the file
       filename: 'bundle.css',
       allChunks: true,
-    })
+    }),
   ]
 };
