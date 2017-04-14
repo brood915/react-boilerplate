@@ -1,10 +1,17 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-class Main extends React.Component
-{
-  render(){
-  	return(<div>hello world!!</div>);	
-  }  
-};
+
+function Main(props) {
+    return (
+    	<div>
+
+    	</div>
+    )
+}
+
+Main.propTypes = {
+	
+}
 
 export default Main;
