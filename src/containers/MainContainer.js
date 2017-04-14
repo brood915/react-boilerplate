@@ -1,10 +1,16 @@
 import React from 'react';
-import Main from '../components/Main'
 
-function MainContainer() {
-    return (
-    	<div><Main /></div>
-    )
+
+class MainContainer extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+
+    	}
+	}
+	render() {
+
+	}
 }
 
 export default MainContainer;
