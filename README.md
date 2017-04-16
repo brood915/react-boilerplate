@@ -7,6 +7,7 @@ SASS/SCSS
 html-webpack-plugins
 react-router
 fetch-jsonp
+prop-types package
 ```
 
 
