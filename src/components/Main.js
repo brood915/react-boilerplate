@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 function Main(props) {
     return (
     	<div>
-
+    		Hello World!
     	</div>
     )
 }
