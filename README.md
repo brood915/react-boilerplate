@@ -4,6 +4,7 @@
 ES6
 React
 SASS/SCSS
+CSS Modules
 html-webpack-plugins
 react-router
 fetch-jsonp
