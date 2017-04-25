@@ -1,6 +1,5 @@
 import React from 'react';
 import Main from '../components/Main';
-import styles from '../style/main.scss';
 
 
 
@@ -11,7 +10,7 @@ class MainContainer extends React.Component {
     	}
 	}
 	render() {
-		return(<div className = {styles.test}><Main /></div>);
+		return(<div className = "test"><Main /></div>);
 
 	}
 }
