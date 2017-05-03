@@ -3,13 +3,18 @@
 ```
 ES6
 React
+React-Redux
+React-router-dom
+React-fontawesome
+React-router-bootstrap
+React-bootstrap
 SASS/SCSS
 CSS Modules
-html-webpack-plugins
-react-router
-fetch-jsonp
-prop-types
+Html-webpack-plugins
+Fetch-jsonp
+Prop-types
 Autoprefixer with Postcss-loader
+Mocha, Enzyme, and Chai
 ```
 
 
