@@ -2,8 +2,7 @@
 
 ```
 ES6
-React
-React-Redux
+React & Redux
 React-router-dom
 React-fontawesome
 React-router-bootstrap
