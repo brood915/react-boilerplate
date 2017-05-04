@@ -10,6 +10,7 @@ React-bootstrap
 SASS/SCSS
 CSS Modules
 Html-webpack-plugins
+Fetch Polyfill
 Fetch-jsonp
 Prop-types
 Autoprefixer with Postcss-loader
