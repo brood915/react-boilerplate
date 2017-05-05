@@ -15,7 +15,6 @@ const Header = () => (
 	        		React Boilerplate		
 	        		<FontAwesome className = 'icons'
 				        name='rocket'
-				        size='1x'
 				        spin />
         		</Link>
 	     	 </Navbar.Brand>
