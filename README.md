@@ -28,4 +28,5 @@ npm test for testing. Change the command accordingly for your platform.
 - SET BABEL_ENV=production&&YOUR_COMMAND_HERE for Windows
 server running at localhost:1337
 npm run build for production
+npm run deploy to deploy to github pages
 ```
