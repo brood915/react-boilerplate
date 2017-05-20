@@ -2,6 +2,7 @@
 
 ```
 ES6
+gh-pages
 React & Redux
 React-router-dom
 React-fontawesome
