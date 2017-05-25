@@ -8,6 +8,7 @@ React-router-dom
 React-fontawesome
 React-router-bootstrap
 React-bootstrap
+Redux-Thunk
 SASS/SCSS
 CSS Modules
 Html-webpack-plugins
