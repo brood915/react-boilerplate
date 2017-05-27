@@ -1,13 +1,14 @@
 # ReactJS Boilerplate with webpack 2
 
 ```
-ES6
+Babel
 gh-pages
-React & Redux
+React
 React-router-dom
 React-fontawesome
 React-router-bootstrap
 React-bootstrap
+Redux
 Redux-Thunk
 SASS/SCSS
 CSS Modules
@@ -16,7 +17,7 @@ Fetch Polyfill
 Fetch-jsonp
 Prop-types
 Autoprefixer with Postcss-loader
-Mocha, Enzyme, and Chai
+Mocha, Enzyme, and Chai for testing
 ```
 
 
