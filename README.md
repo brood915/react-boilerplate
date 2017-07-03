@@ -2,6 +2,7 @@
 
 ```
 Babel
+Babel-Polyfill
 gh-pages
 React
 React-router-dom
